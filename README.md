@@ -1,4 +1,4 @@
-# 🐝 WorkerHive — Official Landing Page
+# 🐝 WorkerHive: Official Landing Page
 
 WorkerHive is a modern workforce ecosystem designed to connect skilled blue-collar and white-collar professionals with verified employers.  
 This landing page serves as a **temporary placeholder** until the full platform is launched.
