@@ -12,7 +12,7 @@ This landing page serves as a **temporary placeholder** until the full platform 
 - Light radial background gradient  
 - Soft animated floating elements  
 - Fully responsive design  
-- Lightweight and minimal for fast loading
+- Lightweight and minimal for fast loading.
 
 ---
 
